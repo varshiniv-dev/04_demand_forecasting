@@ -1,5 +1,8 @@
 # 📦 Supply Chain Demand Forecasting
 
+## 🌐 Live Demo
+[Supply chain deman forecasting app](04-demand-forecasting.streamlit.app/)
+
 An XGBoost-based demand forecasting prototype that predicts future product demand using historical SKU sales and time-based features.
 
 The project demonstrates an end-to-end forecasting workflow from historical sales data to model evaluation and an interactive Streamlit dashboard.
